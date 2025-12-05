@@ -1,0 +1,4 @@
+frontend/node_modules
+venv
+analysis/__pycache__
+analysis/migrations/__pycache__
